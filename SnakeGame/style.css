@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:monospace;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h2{
+    font-weight: 900em;
+    padding-top: 10px;
+}
+
+#msg{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#score{
+    font-size:xx-large;
+}
+
+#gameBoard{
+    border: 3px solid;
+    color: black;
+}
